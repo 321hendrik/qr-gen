@@ -1,0 +1,32 @@
+{
+  "name": "qr-gen",
+  "version": "1.0.0",
+  "description": "generate qr-code images from a list of urls",
+  "main": "qr.js",
+  "dependencies": {
+    "qr-image": "3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hendrikelsner/qr-gen.git"
+  },
+  "keywords": [
+    "qr",
+    "code",
+    "generator",
+    "image",
+    "url",
+    "list"
+  ],
+  "author": "Hendrik Elsner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hendrikelsner/qr-gen/issues"
+  },
+  "homepage": "https://github.com/hendrikelsner/qr-gen#readme"
+}

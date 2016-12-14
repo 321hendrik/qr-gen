@@ -1,0 +1,6 @@
+data/*/*
+!.gitkeep
+*.log
+cache/*.*
+!cache/README.md
+node_modules
