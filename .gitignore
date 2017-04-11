@@ -4,3 +4,4 @@ data/*/*
 cache/*.*
 !cache/README.md
 node_modules
+output
